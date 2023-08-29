@@ -14,4 +14,4 @@
 <img src="https://cdn.icon-icons.com/icons2/2087/PNG/512/argentina_icon_127814.png"width="40">
 <div>
 
-<div class="mystats align="center"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dein17&theme=dark)](https://github.com/anuraghazra/github-readme-stats)>
+<div class="mystats align="center"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dein17&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
