@@ -3,7 +3,7 @@
 <h1>ta bien</h1>
 <h2>que onda😛</h2>
 <h3>Me gustan los jueguito como el mortal kombat</h3>
-<img src="https://media3.giphy.com/media/KeKKaZduCbJo1vIBsa/200w.webp?cid=ecf05e47h6nf2d8xz4ql3skex2d8ytr1wkiitbm1kkaz52dv&ep=v1_gifs_search&rid=200w.webp&ct=g" width="270">
+<img src="https://media3.giphy.com/media/KeKKaZduCbJo1vIBsa/200w.webp?cid=ecf05e47h6nf2d8xz4ql3skex2d8ytr1wkiitbm1kkaz52dv&ep=v1_gifs_search&rid=200w.webp&ct=g" width="177">
 </div>
 ### About Me
 -Estoy en mi ultimo año de secundaria
