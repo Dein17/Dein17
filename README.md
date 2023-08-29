@@ -3,5 +3,6 @@
 <h1>ta bien</h1>
 <h2>ta bien</h2>
 <h3>que onda😛</h3>
-<h4>ta bien</h4>
+<h4>Me gustan los jueguitos, ahora estoy enganchado con el mortal kombat</h4>
+<img src="https://giphy.com/gifs/xbox-KeKKaZduCbJo1vIBsa" width="270"
 
