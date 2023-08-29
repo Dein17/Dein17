@@ -11,3 +11,4 @@
 -Me gusta jugar a los jueguitos y jugar al futbol con mis amigos
 <dlv class="logos" align="center" justify-content = "space-around">
 <img src="https://cdn.icon-icons.com/icons2/1293/PNG/512/2363210-console-game-gaming-play-xbox_85516.png"width="40">
+<img src="https://cdn.icon-icons.com/icons2/2087/PNG/512/argentina_icon_127814.png"width="40">
